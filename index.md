@@ -5,7 +5,8 @@
 [Go to my bio](/bio.md)
 
 ## My favorite chunk of code:
-`
+```
+
 import React, { useState } from 'react';
 
 function Example() {
@@ -21,7 +22,7 @@ function Example() {
     </div>
   );
 }
-`
+```
 
 ## My favorite quote by Jordan Peterson:
 > To stand up straight with your shoulders back is to accept the terrible responsibility of life, with eyes wide open
