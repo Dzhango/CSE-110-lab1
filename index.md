@@ -6,7 +6,6 @@
 
 ## My favorite chunk of code:
 ```
-
 import React, { useState } from 'react';
 
 function Example() {
